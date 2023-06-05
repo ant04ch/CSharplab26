@@ -1,0 +1,12 @@
+C:\Users\lox22\source\repos\OOP26\OOP26\bin\Debug\OOP26.exe.config
+C:\Users\lox22\source\repos\OOP26\OOP26\bin\Debug\OOP26.exe
+C:\Users\lox22\source\repos\OOP26\OOP26\bin\Debug\OOP26.pdb
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.csproj.AssemblyReference.cache
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.csproj.SuggestedBindingRedirects.cache
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.Form1.resources
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.Properties.Resources.resources
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.csproj.GenerateResource.cache
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.csproj.CoreCompileInputs.cache
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.exe
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.pdb
+C:\Users\lox22\source\repos\OOP26\OOP26\obj\Debug\OOP26.csproj.ResolveComReference.cache
